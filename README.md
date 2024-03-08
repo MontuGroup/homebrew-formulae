@@ -7,7 +7,7 @@ Create a [personal access token](https://docs.github.com/en/authentication/keepi
 ```
 export HOMEBREW_GITHUB_API_TOKEN=ghp_<token>
 
-brew tap MontuGroup/formulae git@github.com:MontuGroup/homebrew-formulae.git
+brew tap MontuGroup/formulae
 
 brew install platform-cli
 
